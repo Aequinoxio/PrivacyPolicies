@@ -1,0 +1,166 @@
+
+INFORMATIVA SULLA PRIVACY
+Ultimo aggiornamento 01 gennaio 2024
+
+
+La presente informativa sulla privacy di Aequinoxio ("noi", "ci" o "nostro") descrive come e perché potremmo raccogliere, conservare, utilizzare e/o condividere ("trattare") le vostre informazioni quando utilizzate i nostri servizi ("Servizi"), come ad esempio quando: 
+ * Scaricate e utilizzate la nostra applicazione mobile (Workout Assistant), o qualsiasi altra nostra applicazione che rimandi a questa informativa sulla privacy
+ * Impegnarsi con noi in altri modi correlati, comprese le vendite, il marketing e gli eventi.
+
+
+Domande o dubbi? La lettura di questa informativa sulla privacy vi aiuterà a comprendere i vostri diritti e le vostre scelte in materia di privacy. Se non siete d'accordo con le nostre politiche e pratiche, non utilizzate i nostri Servizi. Se avete ancora domande o dubbi, contattateci all'indirizzo aequinoxio@gmail.com
+
+
+
+SINTESI DEI PUNTI CHIAVE
+
+Questo riepilogo fornisce i punti chiave della nostra informativa sulla privacy, ma è possibile ottenere maggiori dettagli su ciascuno di questi argomenti facendo clic sul link che segue ciascun punto chiave o utilizzando il nostro indice dei contenuti per trovare la sezione desiderata.
+
+Quali informazioni personali trattiamo? Quando l'utente visita, utilizza o naviga nei nostri Servizi, possiamo elaborare i dati personali a seconda di come l'utente interagisce con noi e con i Servizi, delle scelte che fa e dei prodotti e delle funzioni che utilizza. Per saperne di più informazioni personali che ci rivelate.
+
+Trattiamo dati personali? Non trattiamo dati personali.
+Trattiamo dati personali sensibili? Non trattiamo dati personali sensibili.
+Riceviamo informazioni da terzi? Non riceviamo informazioni da terzi.
+
+Come trattiamo le informazioni dell'utente? Trattiamo le informazioni dell'utente per fornire, migliorare e amministrare i nostri Servizi, per comunicare con l'utente, per la sicurezza e la prevenzione delle frodi e per rispettare la legge. Possiamo anche trattare le informazioni dell'utente per altri scopi con il suo consenso. Trattiamo le informazioni dell'utente solo se abbiamo un valido motivo legale per farlo. Per saperne di più come trattiamo le vostre informazioni.
+
+In quali situazioni e con quali soggetti condividiamo le informazioni personali? Non condividiamo le informazioni in situazioni specifiche e con terze parti specifiche.
+
+Come manteniamo al sicuro le vostre informazioni? Disponiamo di processi e procedure organizzative e tecniche per proteggere i vostri dati personali. Tuttavia, nessuna trasmissione elettronica su Internet o tecnologia di archiviazione delle informazioni può essere garantita come sicura al 100%, pertanto non possiamo promettere o garantire che hacker, criminali informatici o altre terze parti non autorizzate non siano in grado di sconfiggere la nostra sicurezza e raccogliere, accedere, rubare o modificare impropriamente le vostre informazioni. Per saperne di più come teniamo al sicuro le vostre informazioni.
+
+Quali sono i vostri diritti? A seconda dell'area geografica in cui vi trovate, la legge sulla privacy applicabile può far sì che abbiate determinati diritti sui vostri dati personali. Per saperne di più leggete il paragrafo i vostri diritti in materia di privacy.
+
+Come esercitare i propri diritti? Il modo più semplice per esercitare i propri diritti è presentare una richiesta di accesso ai dati o contattarci. Prenderemo in considerazione e daremo seguito a qualsiasi richiesta in conformità con le leggi vigenti in materia di protezione dei dati.
+
+Riceviamo informazioni da terzi? No ma leggete l'informativa sulla privacy per intero.
+
+
+INDICE DEI CONTENUTI
+1. QUALI INFORMAZIONI RACCOGLIAMO?
+2. COME TRATTIAMO I VOSTRI DATI?
+3. SU QUALI BASI LEGALI CI BASIAMO PER TRATTARE I VOSTRI DATI PERSONALI?
+4. QUANDO E CON CHI CONDIVIDIAMO I VOSTRI DATI PERSONALI?
+5. PER QUANTO TEMPO CONSERVIAMO I VOSTRI DATI?
+6. COME MANTENIAMO AL SICURO LE VOSTRE INFORMAZIONI?
+7. RACCOGLIAMO INFORMAZIONI DA MINORI?
+8. QUALI SONO I VOSTRI DIRITTI ALLA PRIVACY?
+9. CONTROLLI PER LE FUNZIONI "NON TRACCIARE”
+10. POSSIAMO AGGIORNARE IL PRESENTE AVVISO?
+11. COME POTETE CONTATTARCI IN MERITO A QUESTO AVVISO?
+12. COME POTETE RIVEDERE, AGGIORNARE O CANCELLARE I DATI CHE RACCOGLIAMO SU DI VOI?
+
+
+1. QUALI INFORMAZIONI RACCOGLIAMO?
+Informazioni personali che ci vengono comunicate
+
+In breve: NON raccogliamo le informazioni personali.
+
+Unicamente a fini di risoluzione dei bug raccogliamo i dati tecnici che sono trasmessi mediante email NON automatica: l’utente può decidere di non inviarla. Non possiamo escludere che l’utente possa aggiungere all’email, volontariamente e senza che gli sia richiesto dall’applicazione, altri dati personali (ribadiamo NON richiesti).
+
+Informazioni sensibili. NON trattiamo informazioni sensibili.
+
+Dati dell'applicazione. Se l'utente utilizza le nostre applicazioni, possiamo anche raccogliere le seguenti informazioni se l'utente sceglie di fornirci l'accesso o l'autorizzazione:
+ * Dati del dispositivo mobile. Raccogliamo automaticamente informazioni sul dispositivo (come l'ID del dispositivo mobile, il modello e il produttore), il sistema operativo, le informazioni sulla versione e la configurazione del sistema, i numeri di identificazione del dispositivo e dell'applicazione, il tipo e la versione del browser, il modello di hardware, il provider di servizi Internet e/o il gestore di telefonia mobile e l'indirizzo del protocollo Internet (IP) (o il server proxy). Se l'utente utilizza le nostre applicazioni, possiamo anche raccogliere informazioni sulla rete telefonica associata al dispositivo mobile, sul sistema operativo o sulla piattaforma del dispositivo mobile, sul tipo di dispositivo mobile utilizzato, sull'ID univoco del dispositivo mobile e sulle funzioni delle nostre applicazioni a cui ha avuto accesso.
+
+Queste informazioni sono necessarie principalmente per mantenere la sicurezza e il funzionamento delle nostre applicazioni, per la risoluzione dei problemi e per i nostri scopi di analisi e reporting interni.
+
+Tutti i dati personali forniti dall'utente devono essere veritieri, completi e accurati e l'utente è tenuto a comunicare qualsiasi modifica di tali dati personali.
+
+Informazioni raccolte automaticamente
+In breve: alcune informazioni, come l'indirizzo del protocollo Internet (IP) e/o le caratteristiche del browser e del dispositivo, vengono raccolte automaticamente quando si visitano i nostri Servizi.
+
+Raccogliamo automaticamente alcune informazioni quando l’applicazione va in crash. Queste informazioni non rivelano l'identità specifica dell'utente (come il suo nome o le informazioni di contatto), ma possono includere informazioni sul dispositivo e sull'utilizzo, come l'indirizzo IP, le caratteristiche del browser e del dispositivo, il sistema operativo, le preferenze linguistiche, gli URL di riferimento, il nome del dispositivo, il paese, la posizione, le informazioni su come e quando si utilizzano i nostri Servizi e altre informazioni tecniche. Queste informazioni sono necessarie principalmente per mantenere la sicurezza e il funzionamento dei nostri Servizi e per le nostre finalità interne di analisi e reporting.
+
+L’invio dei dati è comunque soggetto alla volontà dell’utente che può decidere di NON inviare l’email con i dati tecnici.
+
+Le informazioni raccolte comprendono:
+ * Dati del dispositivo. Raccogliamo i dati del dispositivo, come le informazioni sul vostro computer, telefono, tablet o altro dispositivo che utilizzate per accedere ai Servizi. A seconda del dispositivo utilizzato, questi dati possono includere informazioni quali l'indirizzo IP (o il server proxy), i numeri di identificazione del dispositivo e dell'applicazione, la posizione, il tipo di browser, il modello di hardware, il provider di servizi Internet e/o l'operatore di telefonia mobile, il sistema operativo e le informazioni sulla configurazione del sistema.
+
+
+2. COME TRATTIAMO I VOSTRI DATI?
+
+In breve: trattiamo le informazioni dell'utente per fornire, migliorare e amministrare i nostri Servizi, per comunicare con l'utente, per la sicurezza e la prevenzione delle frodi e per rispettare la legge. Possiamo anche trattare le informazioni dell'utente per altri scopi, previo suo consenso.
+
+Trattiamo i vostri dati personali per una serie di motivi, a seconda di come interagite con i nostri Servizi, tra cui:
+ * analisi dei malfunzionamenti dell’applicazione
+
+
+3. SU QUALI BASI LEGALI CI BASIAMO PER TRATTARE I VOSTRI DATI?
+
+In breve: trattiamo i vostri dati personali solo quando riteniamo che sia necessario e abbiamo una valida ragione legale (cioè una base giuridica) per farlo in base alla legge applicabile, ad esempio con il vostro consenso, per ottemperare alle leggi, per fornirvi servizi per stipulare o adempiere ai nostri obblighi contrattuali, per proteggere i vostri diritti o per soddisfare i nostri legittimi interessi commerciali.
+
+Il Regolamento generale sulla protezione dei dati (GDPR) e il GDPR del Regno Unito ci impongono di spiegare quali sono le basi giuridiche valide su cui ci basiamo per trattare i vostri dati personali. In quanto tali, possiamo basarci sulle seguenti basi legali per trattare i vostri dati personali:
+ * Consenso. Possiamo trattare le vostre informazioni se ci avete dato il permesso (cioè il consenso) di utilizzare le vostre informazioni personali per uno scopo specifico. Il consenso può essere revocato in qualsiasi momento. Per saperne di più revoca del consenso.
+ * Obblighi legali. Potremmo trattare le informazioni dell'utente nel caso in cui riteniamo che sia necessario per adempiere ai nostri obblighi legali, ad esempio per collaborare con le forze dell'ordine o con un'agenzia di regolamentazione, per esercitare o difendere i nostri diritti legali o per divulgare le informazioni dell'utente come prova in una controversia in cui siamo coinvolti.
+ * Interessi vitali. Possiamo trattare le vostre informazioni qualora riteniamo che sia necessario proteggere i vostri interessi vitali o gli interessi vitali di una terza parte, come ad esempio situazioni che comportano potenziali minacce alla sicurezza di qualsiasi persona.
+
+
+4. QUANDO E CON CHI CONDIVIDIAMO I VOSTRI DATI PERSONALI?
+
+In breve: NON condividiamo le informazioni con terze parti.
+
+
+5. PER QUANTO TEMPO CONSERVIAMO LE VOSTRE INFORMAZIONI?
+
+In breve: conserviamo le informazioni dell'utente per il tempo necessario a soddisfare gli scopi delineati nella presente informativa sulla privacy, a meno che non sia richiesto diversamente dalla legge.
+
+Non trattando dati personali ci limitiamo a conservare i dati tecnici solo per il tempo necessario agli scopi indicati nella presente informativa sulla privacy, a meno che un periodo di conservazione più lungo non sia richiesto o consentito dalla legge.
+
+Non avendo necessità dei vostri dati personali, li cancelleremo o li renderemo anonimi.
+
+
+6. COME MANTENIAMO AL SICURO LE VOSTRE INFORMAZIONI?
+
+In breve: ci proponiamo di proteggere i vostri dati personali attraverso un sistema di misure di sicurezza organizzative e tecniche.
+
+Nonostante NON trattiamo i vostri dati personali, abbiamo implementato misure di sicurezza tecniche e organizzative adeguate e ragionevoli per proteggere la sicurezza delle informazioni che trattiamo. Tuttavia, nonostante le nostre misure di salvaguardia e i nostri sforzi per proteggere le informazioni dell'utente, nessuna trasmissione elettronica su Internet o tecnologia di archiviazione delle informazioni può essere garantita come sicura al 100%, pertanto non possiamo promettere o garantire che hacker, criminali informatici o altre terze parti non autorizzate non saranno in grado di sconfiggere la nostra sicurezza e di raccogliere, accedere, rubare o modificare impropriamente le informazioni dell'utente. Anche se faremo del nostro meglio per proteggere le informazioni personali dell'utente, la trasmissione di informazioni personali da e verso i nostri Servizi è a rischio dell'utente. L'utente dovrebbe accedere ai Servizi solo in un ambiente sicuro.
+
+
+7. RACCOGLIAMO INFORMAZIONI DA MINORI?
+
+In breve: NON raccogliamo consapevolmente dati da bambini di età inferiore ai 18 anni né li commercializziamo.
+
+NON trattiamo dati personali di minori né richiediamo consapevolmente dati da o commercializziamo a minori di 18 anni. Se si viene a conoscenza di dati raccolti da minori di 18 anni, si prega di contattarci all'indirizzo aequinoxio@gmail.com per la loto immediata cancellazione.
+
+
+8. QUALI SONO I VOSTRI DIRITTI ALLA PRIVACY?
+
+In breve: in alcune regioni, come ad esempio , l'utente dispone di diritti che gli consentono un maggiore accesso e controllo sulle proprie informazioni personali. L'utente può rivedere, modificare o chiudere il proprio account in qualsiasi momento.
+
+In alcune regioni (come l’UE), l'utente gode di determinati diritti ai sensi delle leggi applicabili in materia di protezione dei dati. Questi possono includere il diritto (i) di richiedere l'accesso e di ottenere una copia delle vostre informazioni personali, (ii) di richiedere la rettifica o la cancellazione, (iii) di limitare il trattamento delle vostre informazioni personali, (iv) se applicabile, alla portabilità dei dati e (v) di non essere soggetti a un processo decisionale automatizzato. In determinate circostanze, l'utente può anche avere il diritto di opporsi al trattamento dei propri dati personali. È possibile presentare tale richiesta contattandoci utilizzando i dettagli di contatto forniti nella sezione 'COME POTETE CONTATTARCI IN MERITO ALLA PRESENTE INFORMATIVA?' qui di seguito.
+
+Prenderemo in considerazione e daremo seguito a qualsiasi richiesta in conformità con le leggi vigenti in materia di protezione dei dati.
+
+Se vi trovate nel SEE o nel Regno Unito e ritenete che stiamo trattando illegalmente le vostre informazioni personali, avete anche il diritto di presentare un reclamo all'autorità di protezione dei dati del vostro Stato membro o all'autorità di protezione dei dati del Regno Unito.
+
+Se vi trovate in Svizzera, potete rivolgervi all'Incaricato federale della protezione dei dati e delle informazioni.
+
+Ritiro del consenso: Se per il trattamento dei vostri dati personali ci basiamo sul vostro consenso, che può essere espresso e/o implicito a seconda della legge applicabile, avete il diritto di revocare il vostro consenso in qualsiasi momento. Potete ritirare il vostro consenso in qualsiasi momento contattandoci utilizzando i dettagli di contatto forniti nella sezione 'COME POTETE CONTATTARCI IN MERITO ALLA PRESENTE INFORMATIVA?' di seguito.
+
+Tuttavia, si prega di notare che ciò non pregiudica la liceità del trattamento prima della revoca né, quando la legge applicabile lo consente, pregiudica il trattamento dei vostri dati personali effettuato sulla base di motivi di trattamento legittimi diversi dal consenso.
+
+In caso di domande o commenti sui propri diritti alla privacy, è possibile inviare un'e-mail all'indirizzo aequinoxio@gmail.com.
+
+
+9. CONTROLLI PER LE FUNZIONI "NON TRACCIARE
+
+La maggior parte dei browser web e alcuni sistemi operativi e applicazioni mobili includono una funzione o un'impostazione "Do-Not-Track" ("DNT") che è possibile attivare per segnalare la propria preferenza in materia di privacy e non far monitorare e raccogliere i dati relativi alle proprie attività di navigazione online. Al momento non è stato ancora definito uno standard tecnologico uniforme per il riconoscimento e l'implementazione dei segnali DNT. Pertanto, al momento non rispondiamo ai segnali DNT del browser o a qualsiasi altro meccanismo che comunichi automaticamente la vostra scelta di non essere tracciati online. Se in futuro verrà adottato uno standard per il tracciamento online a cui dovremo attenerci, vi informeremo su tale prassi in una versione aggiornata della presente informativa sulla privacy.
+
+Allo stato attuale, NON trattiamo dati personali o di tracciamento della navigazione on line pertanto questo controllo non è necessario.
+
+
+10. POSSIAMO AGGIORNARE IL PRESENTE AVVISO?
+
+In breve: Sì, aggiorneremo questa informativa se necessario per rimanere conformi alle leggi in materia.
+
+La presente informativa sulla privacy può essere aggiornata di tanto in tanto. La versione aggiornata sarà indicata da una data aggiornata "Revised" e la versione aggiornata entrerà in vigore non appena sarà accessibile. Qualora dovessimo apportare modifiche sostanziali alla presente informativa sulla privacy, potremmo informare l'utente pubblicando in modo visibile un avviso di tali modifiche o inviando direttamente una notifica. Vi invitiamo a consultare frequentemente la presente informativa sulla privacy per essere informati su come stiamo proteggendo le vostre informazioni.
+
+
+11. COME POTETE CONTATTARCI IN MERITO A QUESTO AVVISO?
+
+In caso di domande o commenti sulla presente informativa, è possibile inviare un'e-mail all'indirizzo aequinoxio@gmail.com
+
+
+12. COME POTETE RIVEDERE, AGGIORNARE O CANCELLARE I DATI CHE RACCOGLIAMO SU DI VOI?
+
+In base alle leggi vigenti nel vostro paese, potreste avere il diritto di richiedere l'accesso alle informazioni personali da noi raccolte, la modifica di tali informazioni o la loro cancellazione. Per richiedere la revisione, l'aggiornamento o la cancellazione dei vostri dati personali potete inviare un’email all'indirizzo aequinoxio@gmail.com
